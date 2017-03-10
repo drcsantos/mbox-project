@@ -1,0 +1,61 @@
+DELETE FROM `quote`;
+
+INSERT INTO `quote` (`id`, `author`, `likes`, `text`, `unlikes`, `views`) VALUES
+(1,'Aristoteles',0,'We are what we repeatedly do. Excellence, therefore, is not an act but a habit.',0,1),
+(2,'William B. Sprague',0,'The best way out is always through.',0,4),
+(3,'William B. Sprague',0,'Do not wait to strike till the iron is hot; but make it hot by striking.',0,3),
+(4,'Albert Einstein',0,'Great spirits have always encountered violent opposition from mediocre minds.',0,0),
+(5,'Henry Ford',0,'Whether you think you can or think you can’t, you’re right.',0,0);
+
+(6,'Oprah Winfrey',0,'I know for sure that what we dwell on is who we become.',0,0);
+(7,'Michael Jordan',0,'I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times, I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.',0,0);
+(8,'Mahatma Gandhi',0,'You must be the change you want to see in the world.',0,0);
+(9,'Goethe',0,'What you get by achieving your goals is not as important as what you become by achieving your goals.',0,0);
+(10,'Zig Ziglar',0,'You can get everything in life you want if you will just help enough other people get what they want.',0,0);
+(11,'Mahatma Gandhi',0,'Whatever you do will be insignificant, but it is very important that you do it.',0,0);
+(12,'Napoleon Hill',0,'Desire is the starting point of all achievement, not a hope, not a wish, but a keen pulsating desire which transcends everything.',0,0);
+(13,'Truman Capote',0,'Failure is the condiment that gives success its flavor.',0,0);
+(14,'Japanese Proverb',0,'Vision without action is daydream. Action without vision is nightmare.',0,0);
+(15,'Theodore Roosevelt',0,'In any situation, the best thing you can do is the right thing; the next best thing you can do is the wrong thing; the worst thing you can do is nothing.',0,0);
+(16,'Isaac B. Singer',0,'If you keep saying things are going to be bad, you have a chance of being a prophet',0,0);
+(17,'Unknown',0,'Success consists of doing the common things of life uncommonly well.',0,0);
+(18,'Charles F. Kettering, Engineer and Inventor',0,'Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.',0,0);
+(19,'Mark Twain',0,'Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.',0,0);
+(20,'Unknown',0,'Losers visualize the penalties of failure. Winners visualize the rewards of success.',0,0);
+
+(21,'Unknown',0,'Some succeed because they are destined. Some succeed because they are determined.',0,0);
+(22,'Dan Stanford',0,'Experience is what you get when you don’t get what you want.',0,0);
+(23,'Albert Einstein',0,'Setting an example is not the main means of influencing others; it is the only means.',0,0);
+(24,'Hugh Downs',0,'A happy person is not a person in a certain set of circumstances, but rather a person with a certain set of attitudes.',0,0);
+(25,'Marie Osmond',0,'If you’re going to be able to look back on something and laugh about it, you might as well laugh about it now.',0,0);
+(26,'Roy Goodman',0,'Remember that happiness is a way of travel, not a destination.',0,0);
+(27,'E. Joseph Cossman',0,'If you want to test your memory, try to recall what you were worrying about one year ago today.',0,0);
+(28,'Ralph Waldo Emerson',0,'What lies behind us and what lies before us are tiny matters compared to what lies within us.',0,0);
+(29,'Ralph Waldo Emerson',0,'We judge of man’s wisdom by his hope.',0,0);
+(30,'Mark Twain',0,'The best way to cheer yourself up is to try to cheer somebody else up.',0,0);
+
+(31,'Mark Twain',0,'Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.',0,0);
+(32,'Mark Twain',0,'Whenever you find yourself on the side of the majority, it’s time to pause and reflect.',0,0);
+(33,'Mark Twain',0,'Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.',0,0);
+(34,'Richard B. Sheridan',0,'The surest way not to fail is to determine to succeed.',0,0);
+(35,'Dr. Martin Luther King Jr.',0,'Take the first step in faith. You don’t have to see the whole staircase, just take the first step.',0,0);
+(36,'Anonymous',0,'Act or accept.',0,0);
+(37,'Tim Blixseth',0,'Many great ideas go unexecuted, and many great executioners are without ideas. One without the other is worthless.',0,0);
+(38,'Bono',0,'The world is more malleable than you think and it’s waiting for you to hammer it into shape.',0,0);
+(39,'Dr Phil',0,'Sometimes you just got to give yourself what you wish someone else would give you.',0,0);
+(40,'Stephen R. Covey',0,'Motivation is a fire from within. If someone else tries to light that fire under you, chances are it will burn very briefly.',0,0);
+
+(41,'Norman Vincent Peale',0,'People become really quite remarkable when they start thinking that they can do things. When they believe in themselves they have the first secret of success.',0,0);
+(42,'Anonymous',0,'Whenever you find whole world against you just turn around and lead the world.',0,0);
+(43,'Marilyn vos Savant, Author and Advice Columnist',0,'Being defeated is only a temporary condition; giving up is what makes it permanent.',0,0);
+(44,'John Cage',0,'I can’t understand why people are frightened by new ideas. I’m frightened by old ones.',0,0);
+(45,'Japanese Proverb',0,'Fall down seven times, get up eight.',0,0);
+(46,'Unknown',0,'The difference between ordinary and extraordinary is that little extra.',0,0);
+(47,'Unknown',0,'The best way to predict the future is to create it.',0,0);
+(48,'Dr. Phil',0,'Anyone can do something when they WANT to do it. Really successful people do things when they don’t want to do it.',0,0);
+(49,'Dr. Denis Waitley',0,'There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.',0,0);
+(50,'Sir Winston Churchill',0,'Success is the ability to go from failure to failure without losing your enthusiasm.',0,0);
+
+(60,'Henry Ford',0,'Whether you think you can or think you can’t, you’re right.',0,0);
+
+COMMIT;

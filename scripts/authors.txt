@@ -1,0 +1,15 @@
+INSERT INTO `author` (`Name`) VALUE ('Robert Frost');
+INSERT INTO `author` (`Name`) VALUE ('William B. Sprague');
+INSERT INTO `author` (`Name`) VALUE ('Albert Einstein');
+INSERT INTO `author` (`Name`) VALUE ('Henry Ford');
+INSERT INTO `author` (`Name`) VALUE ('Oprah Winfrey');
+INSERT INTO `author` (`Name`) VALUE ('Michael Jordan');
+INSERT INTO `author` (`Name`) VALUE ('Mahatma Gandhi');
+INSERT INTO `author` (`Name`) VALUE ('Goethe');
+INSERT INTO `author` (`Name`) VALUE ('Zig Ziglar');
+INSERT INTO `author` (`Name`) VALUE ('Mahatma Gandhi');
+INSERT INTO `author` (`Name`) VALUE ('Napoleon Hill');
+INSERT INTO `author` (`Name`) VALUE ('Truman Capote');
+INSERT INTO `author` (`Name`) VALUE ('Japanese Proverb');
+INSERT INTO `author` (`Name`) VALUE ('Theodore Roosevelt');
+INSERT INTO `author` (`Name`) VALUE ('Isaac B. Singer');
